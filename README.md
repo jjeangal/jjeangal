@@ -9,7 +9,7 @@
 </p>
 
 ### 🚀 About Me
-🔭 I'm about to start working at Espresso Systems as a Software Engineer (Infrastructure)<br>🎓 I recently graduted from my Masters in Computing Entrepreneurship & Innovation at NYU<br>👨‍💻 You can find a more extensive portfolio at https://www.jeangal.net/<br>💬 You can ask me about anything that is blockchain related!<br>
+🔭 I'm working at Espresso Systems as a Software Engineer (Infrastructure) in the nitro Integration team <br>🎓 I recently graduted from my Masters in Computing Entrepreneurship & Innovation at NYU<br>👨‍💻 You can find a more extensive portfolio at https://www.jeangal.net/<br>
 
 
 ### 🌐 Socials:
